@@ -8,6 +8,7 @@ This project explores the use of 3D convolutional neural networks (CNNs) to clas
 ## 📁 Files
 - `Detection_of_Alzheimer’s_Disease_Using_Clinical_and_MRI_Data_from_OASIS_1.ipynb`: Full Colab notebook with preprocessing, model training, and evaluation.
 - Processed .npy volumes (Normalized and Stripped)
+- Excel tabular data
 
 ## 🧪 Features
 - 3D MRI preprocessing (normalization, skull stripping)
